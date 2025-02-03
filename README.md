@@ -7,7 +7,7 @@
 </p>
 
 - 💻 Working on data visualization and data analysis
-- 🤓 Current in my final Semester in Computer Science
+- 🤓 Current in my final Semester of Computer Science
 
 <p align="center">
   <strong>Tools and languages I've dared to try</strong>
