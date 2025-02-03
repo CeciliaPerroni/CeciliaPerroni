@@ -2,7 +2,7 @@
   Hi there 👋 Welcome to my Github!
 
 <div style="display: flex; align-items: center;">
-  <img src="https://i.pinimg.com/736x/45/29/0d/45290ddb061a266e0767bc290218b62d.jpg" width="200" style="margin-right: 15px;">
+  <img src="https://i.pinimg.com/736x/45/29/0d/45290ddb061a266e0767bc290218b62d.jpg" width="200" style="margin-left: 15px;">
   <div>
     <ul>
       <li>💻 Working on data visualization and data analysis</li>
