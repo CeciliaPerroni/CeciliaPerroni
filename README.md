@@ -13,11 +13,10 @@
   <strong>Tools and languages I've dared to try</strong>
 </p>
 
-
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
 
 ```
 Here, you'll find a bunch of projects for study and more!
 ```
-
 
 
