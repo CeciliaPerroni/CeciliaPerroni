@@ -13,10 +13,10 @@
   <strong>Tools and languages I've dared to try</strong>
 </p>
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logoColor=black)
-![Power Apps](https://img.shields.io/badge/PowerApps-6A318E?style=for-the-badge&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-1738F3?style=for-the-badge&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-1738F3?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-FBFBFB?style=for-the-badge&logoColor=black)
+![Power Apps](https://img.shields.io/badge/PowerApps-FBFBFB?style=for-the-badge&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-FBFBFB?style=for-the-badge&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-FBFBFB?style=for-the-badge&logoColor=black)
 
 ```
 Here, you'll find a bunch of projects for study and more!
