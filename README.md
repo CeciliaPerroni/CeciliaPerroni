@@ -19,7 +19,7 @@
 
 
 ```
-                        Here, you'll find a bunch of projects for study and more!
+Here, you'll find a bunch of projects for study and more!
 ```
 
 
