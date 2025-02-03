@@ -8,7 +8,7 @@
   </span>
 
   - 💻 Working on data visualization and data analysis
-    - 🤓 
+  - 🤓 
 
 
 
