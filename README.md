@@ -5,3 +5,7 @@
 </p>
 
 
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=MySQL&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white)
+
