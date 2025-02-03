@@ -1,4 +1,4 @@
-<span style="color:pink;">Data Analysis Enthusiast</span>
+<span style="color:blue;">Este é um texto azul!</span>
 
 ## Hi there 👋 Welcome to my Github!
 
