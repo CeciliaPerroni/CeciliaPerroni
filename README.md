@@ -8,7 +8,8 @@
   </span>
 
   - 💻 Working on data visualization and data analysis
-  - 🤓 
+  - 🤓 Current graduating in Computer Science
+  - 
 
 
 
