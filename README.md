@@ -5,11 +5,10 @@
 </p>
 <p align="center">
   Here, you'll find a bunch of projects for study and more!
-    - 💻 Working on data visualization and data analysis
-    - 🤓 
-
   </span>
 
+  - 💻 Working on data visualization and data analysis
+    - 🤓 
 
 
 
