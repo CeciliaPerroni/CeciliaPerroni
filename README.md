@@ -1,4 +1,4 @@
-<span style="color:blue;">Este é um texto azul!</span>
+<span style="color:#FC8CA4;">Data Scientist Enthusiast</span>
 
 ## Hi there 👋 Welcome to my Github!
 
