@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <span style="vertical-align: top; font-size: 18px; margin-right: 20px;">
+  <span style="vertical-align: top; font-size: 18px; margin-left: 20px;">
   Here, you'll find a bunch of projects for study and more!
     
   _________________________________________ </span>
