@@ -14,7 +14,7 @@
 </p>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-
+![Power Apps](https://img.shields.io/badge/Power%20Apps-#A331C3?style=for-badge&logoColor=white)
 ```
 Here, you'll find a bunch of projects for study and more!
 ```
