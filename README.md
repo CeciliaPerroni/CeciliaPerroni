@@ -13,7 +13,7 @@
   <strong>Tools and languages I've dared to try</strong>
 </p>
 
-![Power BI](https://img.shields.io/badge/PowerBI-FBFBFB?style=for-the-badge&logoColor=FA7070)
+![Power BI](https://img.shields.io/badge/PowerBI-FBFBFB?style=for-the-badge&logoColor=black)
 ![Power Apps](https://img.shields.io/badge/PowerApps-FBFBFB?style=for-the-badge&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-FBFBFB?style=for-the-badge&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-FBFBFB?style=for-the-badge&logoColor=black)
